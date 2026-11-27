@@ -6,11 +6,13 @@ I build things from scratch — mostly in Rust — and I like understanding how 
 
 ## 🚀 What I'm building
 
+- **[NovaOS](https://github.com/giulianogramaglia69-boop/NovaOS)** — my own rpm-ostree Linux distro, like Bluefin: 5 interchangeable desktops (GNOME, COSMIC, Hyprland, MangoWC, Niri), switchable with a bootc rebase. Ships its own system AI agent (NovaAI) and system apps. GPLv3.
 - **[ZahideX](https://github.com/giulianogramaglia69-boop/ZahideX)** — a graphics server + window compositor written from scratch in Rust, with its own protocol (not Wayland, not X11). Tiling + floating, GPLv3.
+- **[GG](https://github.com/giulianogramaglia69-boop/GG)** — my own programming language: an interpreter in Rust with a bytecode VM, standard library and its own package manager. GPLv3.
 - **[Mia Agent](https://github.com/giulianogramaglia69-boop/Mia-Agent)** — a personal everyday agent with a native GUI, entirely in Rust. Wiki, knowledge graph and MCP containers.
 - **[Open-Muse](https://github.com/giulianogramaglia69-boop/Open-Muse)** — an open-source desktop client for Muse (Linux, Windows, macOS), built with Tauri + Rust.
 - **[AcquaOS](https://github.com/giulianogramaglia69-boop/AcquaOs)** — my own Linux distro project, Fedora-based.
-- **Home Assistant on a Lenovo tablet** — my whole house (TV, speakers, automations) runs from a tablet server.
+- **[Alba](https://github.com/giulianogramaglia69-boop/Alba)** — a morning-briefing agent on Fly.io (Hacksgiving 2026 entry).
 
 ## 🛠️ Tech I actually use
 
@@ -18,7 +20,7 @@ I build things from scratch — mostly in Rust — and I like understanding how 
 
 ## 🌍 Languages
 
-Italian (native) · English (C1 PET certified, studying for B2) · Latin at school · Russian, German, Bulgarian and Bosnian, self-taught
+Italian (native) · English (B1 PET certified, studying for B2) · Latin at school · Russian, German, Bulgarian and Bosnian, self-taught
 
 ## 💪 Beyond code
 
